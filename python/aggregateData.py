@@ -5,6 +5,8 @@ import sys
 import os
 import sqlite3 as sql
 
+### Script to suck up babyname data to sqlite and do some basic calculations
+
 class aggregateData():
     def __init__(self):
         self.inputfile = ""
