@@ -39,14 +39,14 @@ class aggregateData():
 
     def openFiles(self, directory):
 
+        self.curr.execute("DROP TABLE IF EXISTS names")
+        self.curr.execute("CREATE TABLE names (id INTEGER PRIMARY KEY Autoincrement  NOT NULL  UNIQUE , state TEXT,year INTEGER, name TEXT, sex TEXT, count INTEGER, percent NUMERIC)")
         for state in self.states:
             statefile=state+".TXT"
             try:
                 logger.debug("trying to open: %s ", file)
                 filename = open(directory+"/"+statefile, 'r')
                 reader = csv.reader(filename, delimiter=',', quotechar='|')
-                self.curr.execute("DROP TABLE IF EXISTS names")
-                self.curr.execute("CREATE TABLE names (id INTEGER PRIMARY KEY Autoincrement  NOT NULL  UNIQUE , state TEXT,year INTEGER, name TEXT, sex TEXT, count INTEGER, percent NUMERIC)")
                 for row in reader:
                     self.nameNumber += 1
                     row = map(str, row)
@@ -56,12 +56,11 @@ class aggregateData():
                     name=row[3]
                     count=row[4]
                     args =( self.nameNumber, state,year,name,sex,count,0.0)
-                    #print "INSERT INTO names VALUES(?,?,?,?,?,?,?)", args
                     self.curr.execute("INSERT INTO names VALUES(?,?,?,?,?,?,?)", args)
-                    self.conn.commit()
             except csv.Error as e:
                     logger.error("Cannot open %s. Error: %s", file, e)
                     sys.exit('file %s does not open: %s') % ( file, e)
+            self.conn.commit()
 
     def insertState(self, state):
         if self.stateNumber <> None:
@@ -78,8 +77,11 @@ class aggregateData():
                 self.curr.execute("select sum(count) from names where state=? and year=?",args)
                 row=self.curr.fetchall()
                 stateyeartotal = row[0]
+                #print "total: ", row
+                #exit()
                 self.curr.execute("select * from names where state=? and year=?",args)
                 rows=self.curr.fetchall()
+
                 for row in rows:
                     percent=row["count"]/stateyeartotal
                     args=(percent,row["id"])
@@ -100,7 +102,6 @@ class aggregateData():
                     writer.write(names+"\t")
             stateHash = {}
             for state in self.states:
-
                 row=self.curr.fetchall()
                 stateyeartotal = row[0]
                 self.curr.execute("select * from names where state=? and year=?",args)
@@ -145,5 +146,5 @@ if __name__ == "__main__":
     babynames = aggregateData()
     args = babynames.parse_arguments()
     babynames.openFiles(directory="../data/namesbystate")
-    #babynames.updatePercentages()
+    babynames.updatePercentages()
     #babynames.test()
