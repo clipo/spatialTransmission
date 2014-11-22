@@ -6,75 +6,75 @@
         <layer-tree-layer expanded="1" checked="Qt::Checked" id="usstates20141121151437221" name="usstates">
             <customproperties/>
         </layer-tree-layer>
-        <layer-tree-group expanded="1" checked="Qt::Checked" name="group2">
+        <layer-tree-group expanded="1" checked="Qt::Unchecked" name="group2">
             <customproperties/>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1911_continuity_minmax_by_weight20141121161324774" name="1911-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1911_continuity_minmax_by_weight20141121161324774" name="1911-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1912_continuity_minmax_by_weight20141121161329621" name="1912-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1912_continuity_minmax_by_weight20141121161329621" name="1912-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1913_continuity_minmax_by_weight20141121161330827" name="1913-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1913_continuity_minmax_by_weight20141121161330827" name="1913-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1914_continuity_minmax_by_weight20141121161331579" name="1914-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1914_continuity_minmax_by_weight20141121161331579" name="1914-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1915_continuity_minmax_by_weight20141121161332231" name="1915-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1915_continuity_minmax_by_weight20141121161332231" name="1915-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1916_continuity_minmax_by_weight20141121161332816" name="1916-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1916_continuity_minmax_by_weight20141121161332816" name="1916-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1917_continuity_minmax_by_weight20141121161333283" name="1917-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1917_continuity_minmax_by_weight20141121161333283" name="1917-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1918_continuity_minmax_by_weight20141121161333687" name="1918-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1918_continuity_minmax_by_weight20141121161333687" name="1918-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1919_continuity_minmax_by_weight20141121161334055" name="1919-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1919_continuity_minmax_by_weight20141121161334055" name="1919-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1920_continuity_minmax_by_weight20141121161334422" name="1920-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1920_continuity_minmax_by_weight20141121161334422" name="1920-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1921_continuity_minmax_by_weight20141121161334775" name="1921-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1921_continuity_minmax_by_weight20141121161334775" name="1921-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1922_continuity_minmax_by_weight20141121161335140" name="1922-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1922_continuity_minmax_by_weight20141121161335140" name="1922-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1923_continuity_minmax_by_weight20141121161335509" name="1923-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1923_continuity_minmax_by_weight20141121161335509" name="1923-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1924_continuity_minmax_by_weight20141121161335891" name="1924-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1924_continuity_minmax_by_weight20141121161335891" name="1924-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1925_continuity_minmax_by_weight20141121161336244" name="1925-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1925_continuity_minmax_by_weight20141121161336244" name="1925-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1926_continuity_minmax_by_weight20141121161336595" name="1926-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1926_continuity_minmax_by_weight20141121161336595" name="1926-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1927_continuity_minmax_by_weight20141121161336946" name="1927-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1927_continuity_minmax_by_weight20141121161336946" name="1927-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1928_continuity_minmax_by_weight20141121161337316" name="1928-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1928_continuity_minmax_by_weight20141121161337316" name="1928-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1929_continuity_minmax_by_weight20141121161337679" name="1929-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1929_continuity_minmax_by_weight20141121161337679" name="1929-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1930_continuity_minmax_by_weight20141121161338033" name="1930-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1930_continuity_minmax_by_weight20141121161338033" name="1930-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1931_continuity_minmax_by_weight20141121161338400" name="1931-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1931_continuity_minmax_by_weight20141121161338400" name="1931-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1932_continuity_minmax_by_weight20141121161338766" name="1932-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1932_continuity_minmax_by_weight20141121161338766" name="1932-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1933_continuity_minmax_by_weight20141121161339619" name="1933-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1933_continuity_minmax_by_weight20141121161339619" name="1933-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
         </layer-tree-group>
@@ -158,7 +158,7 @@
             <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1959_continuity_minmax_by_weight20141121145919820" name="1959-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1960_continuity_minmax_by_weight20141121145920187" name="1960-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1960_continuity_minmax_by_weight20141121145920187" name="1960-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
             <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1961_continuity_minmax_by_weight20141121145920518" name="1961-continuity-minmax-by-weight">
@@ -215,7 +215,7 @@
             <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1978_continuity_minmax_by_weight20141121145926103" name="1978-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="1979_continuity_minmax_by_weight20141121145926451" name="1979-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1979_continuity_minmax_by_weight20141121145926451" name="1979-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
             <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="1980_continuity_minmax_by_weight20141121145926786" name="1980-continuity-minmax-by-weight">
@@ -311,7 +311,7 @@
             <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="2010_continuity_minmax_by_weight20141121145938473" name="2010-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="2011_continuity_minmax_by_weight20141121145938802" name="2011-continuity-minmax-by-weight">
+            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="2011_continuity_minmax_by_weight20141121145938802" name="2011-continuity-minmax-by-weight">
                 <customproperties/>
             </layer-tree-layer>
             <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="2012_continuity_minmax_by_weight20141121145939139" name="2012-continuity-minmax-by-weight">
@@ -461,120 +461,120 @@
                 <legendlayerfile isInOverview="0" layerid="usstates20141121151437221" visible="1"/>
             </filegroup>
         </legendlayer>
-        <legendgroup open="true" checked="Qt::Checked" name="group2">
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1911-continuity-minmax-by-weight" showFeatureCount="0">
+        <legendgroup open="true" checked="Qt::Unchecked" name="group2">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1911-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1911_continuity_minmax_by_weight20141121161324774" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1911_continuity_minmax_by_weight20141121161324774" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1912-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1912-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1912_continuity_minmax_by_weight20141121161329621" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1912_continuity_minmax_by_weight20141121161329621" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1913-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1913-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1913_continuity_minmax_by_weight20141121161330827" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1913_continuity_minmax_by_weight20141121161330827" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1914-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1914-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1914_continuity_minmax_by_weight20141121161331579" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1914_continuity_minmax_by_weight20141121161331579" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1915-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1915-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1915_continuity_minmax_by_weight20141121161332231" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1915_continuity_minmax_by_weight20141121161332231" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1916-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1916-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1916_continuity_minmax_by_weight20141121161332816" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1916_continuity_minmax_by_weight20141121161332816" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1917-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1917-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1917_continuity_minmax_by_weight20141121161333283" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1917_continuity_minmax_by_weight20141121161333283" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1918-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1918-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1918_continuity_minmax_by_weight20141121161333687" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1918_continuity_minmax_by_weight20141121161333687" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1919-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1919-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1919_continuity_minmax_by_weight20141121161334055" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1919_continuity_minmax_by_weight20141121161334055" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1920-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1920-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1920_continuity_minmax_by_weight20141121161334422" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1920_continuity_minmax_by_weight20141121161334422" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1921-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1921-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1921_continuity_minmax_by_weight20141121161334775" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1921_continuity_minmax_by_weight20141121161334775" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1922-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1922-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1922_continuity_minmax_by_weight20141121161335140" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1922_continuity_minmax_by_weight20141121161335140" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1923-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1923-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1923_continuity_minmax_by_weight20141121161335509" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1923_continuity_minmax_by_weight20141121161335509" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1924-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1924-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1924_continuity_minmax_by_weight20141121161335891" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1924_continuity_minmax_by_weight20141121161335891" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1925-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1925-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1925_continuity_minmax_by_weight20141121161336244" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1925_continuity_minmax_by_weight20141121161336244" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1926-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1926-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1926_continuity_minmax_by_weight20141121161336595" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1926_continuity_minmax_by_weight20141121161336595" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1927-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1927-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1927_continuity_minmax_by_weight20141121161336946" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1927_continuity_minmax_by_weight20141121161336946" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1928-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1928-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1928_continuity_minmax_by_weight20141121161337316" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1928_continuity_minmax_by_weight20141121161337316" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1929-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1929-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1929_continuity_minmax_by_weight20141121161337679" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1929_continuity_minmax_by_weight20141121161337679" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1930-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1930-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1930_continuity_minmax_by_weight20141121161338033" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1930_continuity_minmax_by_weight20141121161338033" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1931-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1931-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1931_continuity_minmax_by_weight20141121161338400" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1931_continuity_minmax_by_weight20141121161338400" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1932-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1932-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1932_continuity_minmax_by_weight20141121161338766" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1932_continuity_minmax_by_weight20141121161338766" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1933-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1933-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1933_continuity_minmax_by_weight20141121161339619" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1933_continuity_minmax_by_weight20141121161339619" visible="0"/>
                 </filegroup>
             </legendlayer>
         </legendgroup>
@@ -709,9 +709,9 @@
                     <legendlayerfile isInOverview="0" layerid="1959_continuity_minmax_by_weight20141121145919820" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1960-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1960-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1960_continuity_minmax_by_weight20141121145920187" visible="0"/>
+                    <legendlayerfile isInOverview="0" layerid="1960_continuity_minmax_by_weight20141121145920187" visible="1"/>
                 </filegroup>
             </legendlayer>
             <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1961-continuity-minmax-by-weight" showFeatureCount="0">
@@ -804,9 +804,9 @@
                     <legendlayerfile isInOverview="0" layerid="1978_continuity_minmax_by_weight20141121145926103" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="1979-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1979-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="1979_continuity_minmax_by_weight20141121145926451" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="1979_continuity_minmax_by_weight20141121145926451" visible="0"/>
                 </filegroup>
             </legendlayer>
             <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="1980-continuity-minmax-by-weight" showFeatureCount="0">
@@ -964,9 +964,9 @@
                     <legendlayerfile isInOverview="0" layerid="2010_continuity_minmax_by_weight20141121145938473" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="2011-continuity-minmax-by-weight" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="2011-continuity-minmax-by-weight" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="2011_continuity_minmax_by_weight20141121145938802" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="2011_continuity_minmax_by_weight20141121145938802" visible="0"/>
                 </filegroup>
             </legendlayer>
             <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="2012-continuity-minmax-by-weight" showFeatureCount="0">
@@ -984,7 +984,7 @@
     <projectlayers layercount="104">
         <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
             <id>1911_continuity_minmax_by_weight20141121161324774</id>
-            <datasource>./1911-continuity-minmax-by-weight.shp</datasource>
+            <datasource>./1911-continuity-minmax-by-weight.shp|layerid=0|subset=cast("Date" as character) &lt; '1920/11/01' AND cast("Date" as character) >= '1920/10/01' </datasource>
             <title></title>
             <abstract></abstract>
             <keywordList>
@@ -4020,7 +4020,7 @@
         </maplayer>
         <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
             <id>1941_continuity_minmax_by_weight20141121145913903</id>
-            <datasource>./1941-continuity-minmax-by-weight.shp</datasource>
+            <datasource>./1941-continuity-minmax-by-weight.shp|layerid=0|subset=cast("Date" as character) &lt; '1920/11/01' AND cast("Date" as character) >= '1920/10/01' </datasource>
             <title></title>
             <abstract></abstract>
             <keywordList>
@@ -7858,7 +7858,7 @@
         </maplayer>
         <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
             <id>1979_continuity_minmax_by_weight20141121145926451</id>
-            <datasource>./1979-continuity-minmax-by-weight.shp</datasource>
+            <datasource>./1979-continuity-minmax-by-weight.shp|layerid=0|subset=cast("Date" as character) &lt; '1920/11/01' AND cast("Date" as character) >= '1920/10/01' </datasource>
             <title></title>
             <abstract></abstract>
             <keywordList>
@@ -11652,23 +11652,16 @@
     <properties>
         <TimeManager>
             <timeFrameSize type="int">1</timeFrameSize>
-            <timeLayerManager type="QString">1911-01-01 00:00:00.000000;1964-01-01 00:00:00.000000;1930-04-01 00:00:00.000000;</timeLayerManager>
+            <timeLayerManager type="QString">1911-01-01 00:00:00.000000;1979-01-01 00:00:00.000000;1920-10-01 00:00:00.000000;</timeLayerManager>
             <active type="int">1</active>
             <timeFrameType type="QString">months</timeFrameType>
             <loopAnimation type="int">0</loopAnimation>
-            <currentMapTimePosition type="int">-1254499200</currentMapTimePosition>
+            <currentMapTimePosition type="int">-1554220800</currentMapTimePosition>
             <animationFrameLength type="int">100</animationFrameLength>
             <timeLayerList type="QStringList">
-                <value>1911_continuity_minmax_by_weight20141121145853713;;Date;Date;True;%Y/%m/%d;0</value>
-                <value>1964_continuity_minmax_by_weight20141121145921490;;Date;Date;True;%Y/%m/%d;0</value>
-                <value>1913_continuity_minmax_by_weight20141121145904558;;Date;Date;True;%Y/%m/%d;0</value>
-                <value>1914_continuity_minmax_by_weight20141121145905109;;Date;Date;True;%Y/%m/%d;0</value>
-                <value>1915_continuity_minmax_by_weight20141121145905492;;Date;Date;True;%Y/%m/%d;0</value>
-                <value>1916_continuity_minmax_by_weight20141121145905816;;Date;Date;True;%Y/%m/%d;0</value>
-                <value>1917_continuity_minmax_by_weight20141121145906145;;Date;Date;True;%Y/%m/%d;0</value>
-                <value>1918_continuity_minmax_by_weight20141121145906463;;Date;Date;True;%Y/%m/%d;0</value>
-                <value>1919_continuity_minmax_by_weight20141121145906781;;Date;Date;True;%Y/%m/%d;0</value>
-                <value>1920_continuity_minmax_by_weight20141121145907099;;Date;Date;True;%Y/%m/%d;0</value>
+                <value>1911_continuity_minmax_by_weight20141121161324774;;Date;Date;True;%Y/%m/%d;0</value>
+                <value>1941_continuity_minmax_by_weight20141121145913903;;Date;Date;True;%Y/%m/%d;0</value>
+                <value>1979_continuity_minmax_by_weight20141121145926451;;Date;Date;True;%Y/%m/%d;0</value>
             </timeLayerList>
             <playBackwards type="int">0</playBackwards>
         </TimeManager>
