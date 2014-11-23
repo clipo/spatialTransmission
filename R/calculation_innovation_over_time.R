@@ -6,20 +6,14 @@ library(devtools)
 library(mmadsenr)
 library(nutshell)
 data(toxins.and.cancer)
-poprow <- data.frame(Year=2011, U.S.Population=306000000,Real.Buildind.Cost.Index=0,Long.Bond.Rate=0)
-usdata<-rbind(shiller.other.data,poprow)
-poprow <- data.frame(Year=2012, U.S.Population=306000000,Real.Buildind.Cost.Index=0,Long.Bond.Rate=0)
-usdata<-rbind(shiller.other.data,poprow)
-poprow <- data.frame(Year=2013, U.S.Population=306000000,Real.Buildind.Cost.Index=0,Long.Bond.Rate=0)
-usdata<-rbind(shiller.other.data,poprow)
+usdata <- data.frame()
 first <- 1910
 last <-2013
-usdata <-data.frame()
 for (year in seq(first,last)) {
   yeardata <- subset(dataset,Year==year,select=c(Name,Count))
   number<-length(unique(yeardata$Name))
   total<-sum(yeardata$Count)
-  pop <- shiller.other.data$U.S.Population[Year=year]
+  pop <- subset(shiller.other.data, Year==year, select=U.S.Population, row.names=FALSE)
   if (year==first) {
     change<-0
     change_in_uniques <- 0
@@ -28,7 +22,7 @@ for (year in seq(first,last)) {
   } else {
     change <- number-oldval
     change_in_uniques = length(setdiff(previous_list, unique(yeardata$Name) ))
-    correct <- change_in_uniques/pop
+    correct <- change_in_uniques/total
   }
   newRow <- data.frame(Year=year, UniqueNames=number,  Change=change/total,
                        Change_In_Uniques=change_in_uniques, 
