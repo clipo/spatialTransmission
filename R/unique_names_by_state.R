@@ -29,7 +29,6 @@ plot_graphs <- function(filename, title) {
       statedata<-rbind(statedata,newRow)
     }
     
-    plot.ts(statedata$UniqueNames)
     plot(statedata$Year,statedata$UniqueNames,type='l',main=st, col='black',xlab="Year",ylab="Number of Unique Names")
     par(new=T)
     plot(statedata$Year,statedata$ChangePopCorrectedTotal,type="l",col="blue",xaxt="n",yaxt="n",xlab="",ylab="")
